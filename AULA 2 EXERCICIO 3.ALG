@@ -1,6 +1,6 @@
 Algoritmo "Aula 2 exercicio 3"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+// Disciplina   : BASES DE CIÃŠNCIA DA COMPUTAÃ‡ÃƒO I - COMPUTAÃ‡ÃƒO 
+// Professor   : FLÃVIO JOSÃ‰ FERRO BARROS 
 
 Var
 Nota1, Nota2, Nota3: inteiro
@@ -13,9 +13,9 @@ leia (Nota2)
 escreva ("Insira a terceira nota:")
 leia (Nota3)
 se (Nota1+Nota2+Nota3)/3 >= 70 entao
- escreva ("Você está aprovado")
+ escreva ("VocÃª estÃ¡ aprovado")
 senao
-escreva ("Você está reprovad")
+escreva ("VocÃª estÃ¡ reprovad")
 fimse
 
 
