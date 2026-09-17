@@ -1,6 +1,6 @@
 Algoritmo "Aula 2 exercicio 2"
-// Disciplina   : [Linguagem e L�gica de Programa��o] 
-// Professor   : Antonio Carlos Nicolodi 
+// Disciplina   : BASES DE CIÊNCIA DA COMPUTAÇÃO I - COMPUTAÇÃO 
+// Professor   : FLÁVIO JOSÉ FERRO BARROS 
 
 Var
 Valor1, Valor2: inteiro
