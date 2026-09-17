@@ -1,13 +1,13 @@
 Algoritmo "Aula 2 exercicio 4"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o] 
-// Professor   : Antonio Carlos Nicolodi 
+// Disciplina   : BASES DE CI√äNCIA DA COMPUTA√á√ÉO I - COMPUTA√á√ÉO
+// Professor   : FL√ÅVIO JOS√â FERRO BARROS 
 
 Var
 Salario_bruto, Salario_Liquido, imposto: Real
 
 
 Inicio
-escreva ("Insira um sal·rio: ")
+escreva ("Insira um sal√°rio: ")
 leia (Salario_bruto)
 se Salario_bruto < 1000 entao
  escreva ("Seu imposto fica em: 0 reais" )
@@ -19,5 +19,5 @@ se Salario_bruto < 1000 entao
      fimse
 fimse
 Salario_liquido:= Salario_bruto - imposto
-escreval ("Seu sal·rio lÌquido È:R$ ", Salario_liquido)
+escreval ("Seu sal√°rio l√≠quido √©:R$ ", Salario_liquido)
 Fimalgoritmo
