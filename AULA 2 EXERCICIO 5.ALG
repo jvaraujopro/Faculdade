@@ -1,6 +1,6 @@
-Algoritmo "Aula 2 exercicio 3"
-// Disciplina   : [Linguagem e L�gica de Programa��o] 
-// Professor   : Antonio Carlos Nicolodi 
+Algoritmo "Aula 2 exercicio 5"
+// Disciplina   : BASES DE CIÊNCIA DA COMPUTAÇÃO I - COMPUTAÇÃO
+// Professor   : FLÁVIO JOSÉ FERRO BARROS
 
 Var
 Nota1, Nota2, Nota3: inteiro
