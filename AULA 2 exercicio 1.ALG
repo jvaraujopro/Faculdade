@@ -1,4 +1,4 @@
-Algoritmo "Aula 2 exercicio 2"
+Algoritmo "Aula 2 exercicio 1"
 // Disciplina   : BASES DE CIÊNCIA DA COMPUTAÇÃO I - COMPUTAÇÃO 
 // Professor   : FLÁVIO JOSÉ FERRO BARROS
 
