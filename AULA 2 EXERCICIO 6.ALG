@@ -1,6 +1,6 @@
 Algoritmo "Aula 2 exercicio 3"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
-// Professor   : Antonio Carlos Nicolodi
+// Disciplina   : BASES DE CI√äNCIA DA COMPUTA√á√ÉO I - COMPUTA√á√ÉO
+// Professor   : FL√ÅVIO JOS√â FERRO BARROS
 
 Var
 Ano : Real
@@ -8,9 +8,9 @@ Inicio
 escreva ("Digite um ano: ")
  leia (Ano)
   se (Ano % 400 = 0) ou (Ano % 4 = 0) e (Ano % 100 <> 0) entao
-   escreva ("… um ano bissexto!")
+   escreva ("√â um ano bissexto!")
   senao
-   escreva ("N„o È um ano bissexto!")
+   escreva ("N√£o √© um ano bissexto!")
     fimse
   
 
