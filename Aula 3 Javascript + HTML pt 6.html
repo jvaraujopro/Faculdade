@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Estruturas de Controle</title>
+<meta charset="UTF-8">
+</head>
+<script>
+    let salario_bruto = prompt("Digite seu salário");
+    document.write("<h1>Estruturas de Controle</h1>");
+    if (salario_bruto < 1000) {
+        document.write("Não há impostos.<br>");
+    }
+    else if (salario_bruto <= 2200) {
+        imposto = salario_bruto * 0.13;
+    }
+    else {
+        imposto = salario_bruto * 0.22;
+    }
+    salario_liquido = salario_bruto - imposto;
+    document.write("Seu salário líquido é: R$ ", salario_liquido)
+    </script>
+</html>
